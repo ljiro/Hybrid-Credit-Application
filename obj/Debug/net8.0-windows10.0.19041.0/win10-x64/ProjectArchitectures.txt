@@ -1,2 +1,0 @@
-D:\Github\MAUI\Hybrid\MauiHybridWebView\HybridWebView\HybridWebView.csproj;neutral
-D:\Github\MAUI\Hybrid\MauiHybridWebView\MauiReactJSHybridApp\MauiReactJSHybridApp.csproj;x64

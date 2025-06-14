@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiReactJSHybridApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ce99d9122f093edd467b808d46833b68f7f9fa64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+873bf8c89e5fe1c5842e4d867d94aef19423c15b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiReactJSHybridApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiReactJSHybridApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2206,20 +2206,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-android34.0/android-arm": {
@@ -4426,20 +4412,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -6648,20 +6620,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-android34.0/android-x64": {
@@ -8868,20 +8826,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -11090,20 +11034,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
@@ -13310,20 +13240,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -15532,20 +15448,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-android34.0/win10-x64": {
@@ -17753,20 +17655,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-ios18.0": {
@@ -18187,20 +18075,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -18623,20 +18497,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-ios18.0/android-arm64": {
@@ -19057,20 +18917,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -19493,20 +19339,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-ios18.0/android-x86": {
@@ -19927,20 +19759,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -20363,20 +20181,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-ios18.0/maccatalyst-x64": {
@@ -20797,20 +20601,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -21233,20 +21023,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-maccatalyst18.0": {
@@ -21667,20 +21443,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -22103,20 +21865,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-maccatalyst18.0/android-arm64": {
@@ -22537,20 +22285,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -22973,20 +22707,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-maccatalyst18.0/android-x86": {
@@ -23407,20 +23127,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -23843,20 +23549,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-maccatalyst18.0/maccatalyst-x64": {
@@ -24278,20 +23970,6 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-maccatalyst18.0/win10-x64": {
@@ -24712,20 +24390,6 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -25317,20 +24981,6 @@
             "rid": "win10-x86"
           }
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-windows10.0.19041/android-arm": {
@@ -25880,20 +25530,6 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -26445,20 +26081,6 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-windows10.0.19041/android-x64": {
@@ -27008,20 +26630,6 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -27573,20 +27181,6 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-windows10.0.19041/iossimulator-x64": {
@@ -28137,20 +27731,6 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        }
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
@@ -28700,20 +28280,6 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     },
@@ -29270,20 +28836,6 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
-        }
-      },
-      "EJL.MauiHybridWebView/1.0.0-preview7": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Maui.Controls": "8.0.100",
-          "Microsoft.Maui.Controls.Compatibility": "8.0.100"
-        },
-        "compile": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EJL.MauiHybridWebView.dll": {}
         }
       }
     }
@@ -33581,37 +33133,32 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
-    },
-    "EJL.MauiHybridWebView/1.0.0-preview7": {
-      "type": "project",
-      "path": "../HybridWebView/HybridWebView.csproj",
-      "msbuildProject": "../HybridWebView/HybridWebView.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
-      "EJL.MauiHybridWebView >= 1.0.0-preview7",
+      "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16"
     ],
     "net8.0-ios18.0": [
-      "EJL.MauiHybridWebView >= 1.0.0-preview7",
+      "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16"
     ],
     "net8.0-maccatalyst18.0": [
-      "EJL.MauiHybridWebView >= 1.0.0-preview7",
+      "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16"
     ],
     "net8.0-windows10.0.19041": [
-      "EJL.MauiHybridWebView >= 1.0.0-preview7",
+      "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100"
@@ -33624,11 +33171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\MauiReactJSHybridApp\\MauiReactJSHybridApp.csproj",
+      "projectUniqueName": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\MauiReactJSHybridApp.csproj",
       "projectName": "MauiReactJSHybridApp",
-      "projectPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\MauiReactJSHybridApp\\MauiReactJSHybridApp.csproj",
+      "projectPath": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\MauiReactJSHybridApp.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\MauiReactJSHybridApp\\obj\\",
+      "outputPath": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -33654,32 +33201,32 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "projectReferences": {
-            "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj": {
-              "projectPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj"
+            "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj": {
+              "projectPath": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj"
             }
           }
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {
-            "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj": {
-              "projectPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj"
+            "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj": {
+              "projectPath": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj"
             }
           }
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {
-            "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj": {
-              "projectPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj"
+            "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj": {
+              "projectPath": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj"
             }
           }
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "projectReferences": {
-            "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj": {
-              "projectPath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\HybridWebView\\HybridWebView.csproj"
+            "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj": {
+              "projectPath": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj"
             }
           }
         }
@@ -33936,5 +33483,47 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
+      "targetGraphs": [
+        "net8.0-android34.0",
+        "net8.0-android34.0/android-arm",
+        "net8.0-android34.0/android-arm64",
+        "net8.0-android34.0/android-x64",
+        "net8.0-android34.0/android-x86",
+        "net8.0-android34.0/iossimulator-x64",
+        "net8.0-android34.0/maccatalyst-x64",
+        "net8.0-android34.0/win10-x64",
+        "net8.0-ios18.0",
+        "net8.0-ios18.0/android-arm",
+        "net8.0-ios18.0/android-arm64",
+        "net8.0-ios18.0/android-x64",
+        "net8.0-ios18.0/android-x86",
+        "net8.0-ios18.0/iossimulator-x64",
+        "net8.0-ios18.0/maccatalyst-x64",
+        "net8.0-ios18.0/win10-x64",
+        "net8.0-maccatalyst18.0",
+        "net8.0-maccatalyst18.0/android-arm",
+        "net8.0-maccatalyst18.0/android-arm64",
+        "net8.0-maccatalyst18.0/android-x64",
+        "net8.0-maccatalyst18.0/android-x86",
+        "net8.0-maccatalyst18.0/iossimulator-x64",
+        "net8.0-maccatalyst18.0/maccatalyst-x64",
+        "net8.0-maccatalyst18.0/win10-x64",
+        "net8.0-windows10.0.19041",
+        "net8.0-windows10.0.19041/android-arm",
+        "net8.0-windows10.0.19041/android-arm64",
+        "net8.0-windows10.0.19041/android-x64",
+        "net8.0-windows10.0.19041/android-x86",
+        "net8.0-windows10.0.19041/iossimulator-x64",
+        "net8.0-windows10.0.19041/maccatalyst-x64",
+        "net8.0-windows10.0.19041/win10-x64"
+      ]
+    }
+  ]
 }

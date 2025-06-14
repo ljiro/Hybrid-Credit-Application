@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcOBWp8bjbE=",
-  "success": true,
-  "projectFilePath": "D:\\Github\\MAUI\\Hybrid\\MauiHybridWebView\\MauiReactJSHybridApp\\MauiReactJSHybridApp.csproj",
+  "dgSpecHash": "lwHDlhyzQwU=",
+  "success": false,
+  "projectFilePath": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\MauiReactJSHybridApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -112,7 +112,6 @@
     "C:\\Users\\Asus\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\ejl.mauihybridwebview\\1.0.0-preview7\\ejl.mauihybridwebview.1.0.0-preview7.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.154\\microsoft.android.runtime.34.android-x64.34.0.154.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.154\\microsoft.android.runtime.34.android-arm64.34.0.154.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.android.ref.34\\34.0.154\\microsoft.android.ref.34.34.0.154.nupkg.sha512",
@@ -124,5 +123,48 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.maccatalyst.ref.net8.0_18.0\\18.0.8324\\microsoft.maccatalyst.ref.net8.0_18.0.18.0.8324.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\MauiReactJSHybridApp.csproj",
+      "filePath": "D:\\Github\\MAUI\\Hybrid-Credit-Application\\MauiReactJSHybridApp.csproj",
+      "libraryId": "D:\\Github\\MAUI\\HybridWebView\\HybridWebView.csproj",
+      "targetGraphs": [
+        "net8.0-android34.0",
+        "net8.0-android34.0/android-arm",
+        "net8.0-android34.0/android-arm64",
+        "net8.0-android34.0/android-x64",
+        "net8.0-android34.0/android-x86",
+        "net8.0-android34.0/iossimulator-x64",
+        "net8.0-android34.0/maccatalyst-x64",
+        "net8.0-android34.0/win10-x64",
+        "net8.0-ios18.0",
+        "net8.0-ios18.0/android-arm",
+        "net8.0-ios18.0/android-arm64",
+        "net8.0-ios18.0/android-x64",
+        "net8.0-ios18.0/android-x86",
+        "net8.0-ios18.0/iossimulator-x64",
+        "net8.0-ios18.0/maccatalyst-x64",
+        "net8.0-ios18.0/win10-x64",
+        "net8.0-maccatalyst18.0",
+        "net8.0-maccatalyst18.0/android-arm",
+        "net8.0-maccatalyst18.0/android-arm64",
+        "net8.0-maccatalyst18.0/android-x64",
+        "net8.0-maccatalyst18.0/android-x86",
+        "net8.0-maccatalyst18.0/iossimulator-x64",
+        "net8.0-maccatalyst18.0/maccatalyst-x64",
+        "net8.0-maccatalyst18.0/win10-x64",
+        "net8.0-windows10.0.19041",
+        "net8.0-windows10.0.19041/android-arm",
+        "net8.0-windows10.0.19041/android-arm64",
+        "net8.0-windows10.0.19041/android-x64",
+        "net8.0-windows10.0.19041/android-x86",
+        "net8.0-windows10.0.19041/iossimulator-x64",
+        "net8.0-windows10.0.19041/maccatalyst-x64",
+        "net8.0-windows10.0.19041/win10-x64"
+      ]
+    }
+  ]
 }
