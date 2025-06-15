@@ -7,7 +7,7 @@
     <Grid ColumnDefinitions="*" RowDefinitions="Auto,*">
         
 
-        <hwv:HybridWebView Grid.Row="1" x:Name="myHybridWebView" HybridAssetRoot="ReactTodoApp" />
+        <hwv:HybridWebView Grid.Row="1" x:Name="myHybridWebView" HybridAssetRoot="ReactCreditApp" />
     </Grid>
 
 </ContentPage>
